@@ -1,4 +1,4 @@
- ### Hey there, Myself Shyam Sundar Goyal  👋
+ ### Hey there, Myself Shyam Sundar Goyal  [shyam-2002][website]👋
  <h4>       
  
 - 2<sup>nd</sup> Year Student.
@@ -24,7 +24,42 @@
 <p align="center">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node JS" width="26px" src="" />
  </p> 
 <br />
 <br />
+ 
+---
+
+![Visitor Count](https://profile-counter.glitch.me/{shyam-2002}/count.svg) <br/>  
+ ![](https://komarev.com/ghpvc/?username=shyam-2002)<br/>
+ 
+   
+ <br/>
+ 
+ ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
+<p align="center">
+ 
+  <a href="https://github.com/shyam-2002/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shyam-2002&theme=neon-dark&hide_border=true&border=D3DD21"/>
+  </a>
+    
+### <h2 align="center">🏆 Github Trophies 🏆<h2/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=shyam-2002&theme=gruvbox"/>
+  </a>
+</p>
+    
+### <h2 align="center">⚙️ Github Stats ⚙️<h2/>   
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shyam-2002&show_icons=true&theme=dracula" alt="Shyam" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-2002&theme=dracula&layout=compact" alt="Shyam" />
+</p>
+
+[website]: https://github.com/shyam-2002
+[linkedin]: https://www.linkedin.com/in/shyam-sundar-goyal/
