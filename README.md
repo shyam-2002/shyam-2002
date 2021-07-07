@@ -1,4 +1,4 @@
- ### Hey there, Myself Shyam Sundar Goyal  [shyam-2002][website]👋
+ ### Hey there, myself Shyam  [shyam-2002][website]👋
  <h4>       
 
 - Currently Pursuing B.Tech From **IIT GUWAHATI.**
