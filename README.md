@@ -5,7 +5,7 @@
  
 <h4/>
   
-  ## Backend Developer | SDE Enthusiast | Open to new techs in field of CS.
+  #### Backend Developer | SDE Enthusiast | Open to new techs in field of CS.
   
   ### <h2 align="center">🤳 Feel Free to **Contact Me**<h2/>
  <body>
