@@ -1,7 +1,6 @@
  ### Hey there, Myself Shyam Sundar Goyal  [shyam-2002][website]👋
  <h4>       
- 
-- 2<sup>nd</sup> Year Student.
+
 - Currently Pursuing B.Tech From **IIT GUWAHATI.**
  
 <h4/>
