@@ -16,7 +16,7 @@
 </div>
 </body>
   
-  <br />
+
 
 ### <h2 align="center"> Languages and Tools<h2/>
 
@@ -39,13 +39,13 @@
   <a href="https://github.com/shyam-2002/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shyam-2002&theme=neon-dark&hide_border=true&border=D3DD21"/>
   </a>
-    
+<!--     
 ### <h2 align="center">🏆 Github Trophies 🏆<h2/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=shyam-2002&theme=gruvbox"/>
   </a>
-</p>
+</p> -->
     
 ### <h2 align="center">⚙️ Github Stats ⚙️<h2/>   
 
