@@ -11,7 +11,7 @@
  <body>
     <div class="img1">
 <p align='left'>
-<a href="https://www.linkedin.com/in/shyam-sundar-goyal/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="30" alt="Linkedin"></a>  <a href="mailto:goyalshyamsundar2@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="30" alt="Email"></a>
+<a href="https://www.linkedin.com/in/shyam-sundar-goyal/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="30" alt="Linkedin"></a>  <a href="mailto:goyalshyamsundar2@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="33" alt="Email"></a>
 <p/>
 </div>
 </body>
