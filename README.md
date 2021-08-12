@@ -46,7 +46,7 @@
   </a>
 </p> -->
     
-### <h2 align="center">⚙️ Github Stats ⚙️<h2/>   
+<!-- ### <h2 align="center">⚙️ Github Stats ⚙️<h2/>   
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shyam-2002&show_icons=true&theme=dracula" alt="Shyam" />
@@ -54,7 +54,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-2002&theme=dracula&layout=compact" alt="Shyam" />
-</p>
+</p> -->
 
 [website]: https://github.com/shyam-2002
 [linkedin]: https://www.linkedin.com/in/shyam-sundar-goyal/
