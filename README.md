@@ -20,9 +20,10 @@
 ### <h2 align="center"> Languages and Tools<h2/>
 
 <p align="center">
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node JS" width="26px" src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg" />
+<img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node JS" width="45px" src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg" />
+<img align="left" alt="Node JS" width="45px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" />
  </p> 
 <br />
 <br />
